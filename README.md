@@ -1,4 +1,4 @@
-# t-fp-assoc
+# t-fp-from-pairs
 
 ## Usage
 
@@ -13,4 +13,4 @@ The type for result is `{[k: string]: string | boolean}`.
 
 ## Installation
 
-Use `npm install t-fp-assoc` to install.
+Use `npm install t-fp-from-pairs` to install.
